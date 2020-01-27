@@ -1,1 +1,1 @@
-this is my first test file
+Hi, Iam using git to test a file
